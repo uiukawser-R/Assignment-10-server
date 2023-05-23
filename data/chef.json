@@ -1,0 +1,437 @@
+
+     [
+      {
+        "id": "1",
+        "name": "John Smith",
+        "experience": 12,
+        "bio":"Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft.",
+        "recipes": [
+          {
+            "recipe_id": "1",
+            "name": "Coq au Vin",
+            "ingredients": "1 whole chicken,200g bacon,200g mushrooms,2 onions,",
+
+            "cooking_method": "1. In a large pot, fry the bacon until crispy. Remove and set aside.\n2. Season the chicken with salt and pepper, then brown it in the same pot.\n3. Remove the chicken and sauté the onions, garlic, and mushrooms until golden.\n4. Sprinkle the flour over the vegetables and cook for a minute.\n5. Add the wine, chicken broth, and bacon to the pot. Stir well.\n6. Return the chicken to the pot and add fresh thyme.\n7. Cover and simmer for about 1.5 hours or until the chicken is tender.\n8. Serve hot with crusty bread or mashed potatoes.",
+            "rating": 4.8
+          },
+          {
+            "recipe_id": "2",
+            "name": "Crème Brûlée",
+            "ingredients": [
+              "4 egg yolks",
+              "500ml heavy cream",
+              "100g granulated sugar",
+              "1 teaspoon vanilla extract",
+              "Extra sugar for caramelization"
+            ],
+            "cooking_method": "1. Preheat the oven to 300°F (150°C).\n2. In a bowl, whisk together the egg yolks and sugar until well combined.\n3. In a saucepan, heat the cream and vanilla extract over medium heat until hot but not boiling.\n4. Gradually pour the hot cream into the egg mixture while whisking continuously.\n5. Strain the mixture through a fine-mesh sieve to remove any lumps.\n6. Divide the mixture into ramekins and place them in a baking dish.\n7. Fill the baking dish with hot water halfway up the sides of the ramekins.\n8. Bake for about 30-35 minutes or until the custard is set but still slightly jiggly in the center.\n9. Remove from the oven and let them cool. Refrigerate for at least 2 hours.\n10. Sprinkle a thin, even layer of sugar on top of each custard.\n11. Caramelize the sugar using a kitchen torch or by placing them under the broiler.\n12. Let the sugar cool and harden before serving.",
+            "rating": 4.9
+          },
+          {
+            "recipe_id": "3",
+            "name": "Bouillabaisse",
+            "ingredients": [
+              "500g mixed fish fillets (such as cod, haddock, salmon)",
+              "200g mussels",
+              "200g clams",
+              "200g shrimp",
+              "1 onion",
+              "2 cloves of garlic",
+              "1 fennel bulb",
+              "2 tomatoes",
+              "1 orange",
+              "1 lemon",
+              "1 bay leaf",
+              "1 teaspoon saffron threads",
+              "4 tablespoons olive oil",
+              "500ml fish stock",
+              "250ml white wine",
+              "Salt and pepper",
+              "Fresh parsley"
+            ],
+            "cooking_method": "1. Clean the fish fillets and cut them into bite-sized pieces.\n2. Clean the mussels and clams, discarding any that are open or damaged.\n3. Chop the onion, garlic, fennel, tomatoes, orange, and lemon.\n4. In a large pot, heat the olive oil over medium heat.\n5. Add the chopped onion, garlic, and fennel. Sauté until softened.\n6. Add the tomatoes, orange, and lemon. Cook for a few minutes.\n7. Add the bay leaf, saffron, fish stock, and white wine. Season with salt and pepper.\n8. Bring the mixture to a simmer and cook for about 10 minutes.\n9. Add the fish, mussels, clams, and shrimp to the pot. Cover and cook for 5-7 minutes or until the seafood is cooked through.\n10. Discard any mussels or clams that haven't opened.\n11. Garnish with fresh parsley.\n12. Serve hot with crusty bread.",
+            "rating": 4.7
+          }
+        ],
+        "picture": "https://live.staticflickr.com/65535/52917769330_4680f92e73_m.jpg",
+        "year_of_experience": 12,
+        "number_of_recipes": 3,
+        "number_of_likes": 1200
+      },
+
+
+
+
+
+      {
+        "id": "2",
+        "name": "Emily Johnson",
+        "specialty": "Italian Cuisine",
+        "experience": 10,
+        "bio":"Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft.",
+       
+     
+        "recipes": [
+          {
+            "recipe_id": "4",
+            "name": "Spaghetti Carbonara",
+            "ingredients": [
+              "200g spaghetti",
+              "100g pancetta or bacon",
+              "2 egg yolks",
+              "50g grated Parmesan cheese",
+              "Freshly ground black pepper",
+              "Salt"
+            ],
+            "cooking_method": "1. Cook the spaghetti in a large pot of salted boiling water until al dente.\n2. In a skillet, cook the pancetta or bacon until crispy. Remove from heat and set aside.\n3. In a bowl, whisk together the egg yolks, grated Parmesan cheese, and a generous amount of black pepper.\n4. Drain the cooked spaghetti and return it to the pot. Immediately add the egg mixture and cooked pancetta or bacon.\n5. Toss everything together until the pasta is evenly coated and the sauce is creamy.\n6. Season with salt if needed.\n7. Serve hot with an additional sprinkle of Parmesan cheese and black pepper.",
+            "rating": 4.9
+          },
+          {
+            "recipe_id": "5",
+            "name": "Margherita Pizza",
+            "ingredients": [
+              "Pizza dough",
+              "Tomato sauce",
+              "Fresh mozzarella cheese",
+              "Fresh basil leaves",
+              "Extra-virgin olive oil",
+              "Salt"
+            ],
+            "cooking_method": "1. Preheat the oven to the highest temperature possible (usually around 500°F or 260°C).\n2. Roll out the pizza dough on a floured surface into your desired shape.\n3. Transfer the dough to a baking sheet or pizza stone.\n4. Spread a thin layer of tomato sauce over the dough, leaving a border around the edges.\n5. Tear the fresh mozzarella into small pieces and distribute them evenly over the sauce.\n6. Tear the basil leaves and scatter them over the cheese.\n7. Drizzle a little olive oil over the pizza.\n8. Sprinkle a pinch of salt over the top.\n9. Bake in the preheated oven for about 10-15 minutes or until the crust is golden and the cheese is bubbly and slightly browned.\n10. Remove from the oven and let it cool for a few minutes before slicing and serving.",
+            "rating": 4.7
+          },
+          {
+            "recipe_id": "6",
+            "name": "Tiramisu",
+            "ingredients": [
+              "250g mascarpone cheese",
+              "24 ladyfingers",
+              "4 eggs, separated",
+              "100g granulated sugar",
+              "250ml strong brewed coffee, cooled",
+              "2 tablespoons cocoa powder",
+              "1 teaspoon vanilla extract"
+            ],
+            "cooking_method": "1. In a mixing bowl, beat the egg yolks and sugar together until creamy.\n2. Add the mascarpone cheese and vanilla extract. Mix until smooth.\n3. In a separate bowl, beat the egg whites until stiff peaks form.\n4. Gently fold the beaten egg whites into the mascarpone mixture.\n5. Dip each ladyfinger into the cooled coffee and arrange them in a single layer in a serving dish.\n6. Spread half of the mascarpone mixture over the ladyfingers.\n7. Repeat with another layer of coffee-dipped ladyfingers and the remaining mascarpone mixture.\n8. Sift cocoa powder over the top.\n9. Cover and refrigerate for at least 4 hours or overnight.\n10. Serve chilled and enjoy.",
+            "rating": 4.8
+          }
+        ],
+        "picture": "https://live.staticflickr.com/65535/52917845718_2050b3bc49_m.jpg",
+        "year_of_experience": 10,
+        "number_of_recipes": 3,
+        "number_of_likes": 1500
+      },
+
+
+
+
+
+
+
+
+      {
+        "id": "3",
+        "name": "Antonio Rossi",
+        "specialty": "Mediterranean Cuisine",
+        "experience": 15,
+        "bio":"Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft.",
+    
+        "recipes": [
+          {
+            "recipe_id": "7",
+            "name": "Greek Salad",
+            "ingredients": [
+              "2 cucumbers",
+              "4 tomatoes",
+              "1 red onion",
+              "200g feta cheese",
+              "100g Kalamata olives",
+              "4 tablespoons extra-virgin olive oil",
+              "2 tablespoons red wine vinegar",
+              "Fresh oregano",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. Cut the cucumbers, tomatoes, and red onion into bite-sized pieces.\n2. In a large bowl, combine the cucumbers, tomatoes, red onion, and Kalamata olives.\n3. Drizzle the extra-virgin olive oil and red wine vinegar over the salad.\n4. Season with salt and pepper to taste.\n5. Toss everything together until well combined.\n6. Crumble the feta cheese over the top.\n7. Sprinkle with fresh oregano.\n8. Serve chilled as a refreshing and healthy side dish.",
+            "rating": 4.6
+          },
+          {
+            "recipe_id": "8",
+            "name": "Paella",
+            "ingredients": [
+              "250g chicken thighs",
+              "250g chorizo sausage",
+              "250g shrimp",
+              "250g mussels",
+              "1 onion",
+              "3 cloves of garlic",
+              "1 red bell pepper",
+              "1 yellow bell pepper",
+              "2 tomatoes",
+              "250g Arborio rice",
+              "1 teaspoon smoked paprika",
+              "1 teaspoon saffron threads",
+              "600ml chicken stock",
+              "4 tablespoons olive oil",
+              "Salt and pepper",
+              "Fresh parsley",
+              "Lemon wedges"
+            ],
+            "cooking_method": "1. Cut the chicken thighs and chorizo sausage into bite-sized pieces.\n2. Clean the shrimp and mussels, discarding any that are open or damaged.\n3. Chop the onion, garlic, red and yellow bell peppers, and tomatoes.\n4. In a large paella pan or skillet, heat the olive oil over medium heat.\n5. Add the chopped onion, garlic, and bell peppers. Sauté until softened.\n6. Add the chicken and chorizo. Cook until browned.\n7. Add the chopped tomatoes, smoked paprika, and saffron. Cook for a few minutes.\n8. Add the Arborio rice and stir to coat it with the oil and spices.\n9. Pour in the chicken stock and season with salt and pepper.\n10. Bring the mixture to a simmer and cook for about 10 minutes.\n11. Nestle the shrimp, mussels, and peas into the rice.\n12. Cover the pan and cook for another 10-15 minutes or until the rice is tender and the seafood is cooked through.\n13. Garnish with fresh parsley and serve hot with lemon wedges.",
+            "rating": 4.9
+          },
+          {
+            "recipe_id": "9",
+            "name": "Mediterranean Grilled Vegetables",
+            "ingredients": [
+              "2 zucchini",
+              "2 yellow squash",
+              "1 eggplant",
+              "1 red bell pepper",
+              "1 yellow bell pepper",
+              "1 red onion",
+              "4 tablespoons extra-virgin olive oil",
+              "2 tablespoons balsamic vinegar",
+              "2 cloves of garlic, minced",
+              "1 teaspoon dried oregano",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. Preheat the grill to medium-high heat.\n2. Slice the zucchini, yellow squash, eggplant, red bell pepper, yellow bell pepper, and red onion into thick slices.\n3. In a small bowl, whisk together the olive oil, balsamic vinegar, minced garlic, dried oregano, salt, and pepper.\n4. Brush the vegetable slices with the marinade, coating them evenly.\n5. Place the vegetables on the preheated grill and cook for 3-4 minutes per side or until tender and slightly charred.\n6. Remove from the grill and arrange them on a serving platter.\n7. Drizzle any remaining marinade over the top.\n8. Serve as a delicious and healthy side dish.",
+            "rating": 4.7
+          }
+        ],
+        "picture": "https://live.staticflickr.com/65535/52917849693_0a3b30c1d5_m.jpg",
+        "year_of_experience": 15,
+        "number_of_recipes": 3,
+        "number_of_likes": 1800
+      },
+
+
+
+
+
+
+      {
+        "id": "4",
+        "name": "Maria Gonzalez",
+        "specialty": "Mexican Cuisine",
+        "experience": 8,
+        "bio":"Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft.",
+ 
+        "recipes": [
+          {
+            "recipe_id": "10",
+            "name": "Tacos al Pastor",
+            "ingredients": [
+              "500g pork shoulder",
+              "1 pineapple",
+              "1 onion",
+              "2 cloves of garlic",
+              "2 tablespoons achiote paste",
+              "2 tablespoons white vinegar",
+              "1 teaspoon dried oregano",
+              "1 teaspoon ground cumin",
+              "1 teaspoon paprika",
+              "Corn tortillas",
+              "Fresh cilantro",
+              "Lime wedges"
+            ],
+            "cooking_method": "1. Cut the pork shoulder into thin slices.\n2. Peel and slice the pineapple.\n3. Chop the onion and mince the garlic.\n4. In a blender, combine the achiote paste, white vinegar, minced garlic, dried oregano, ground cumin, paprika, and a pinch of salt.\n5. Blend until smooth to make the marinade.\n6. In a large bowl, combine the pork slices, pineapple slices, chopped onion, and marinade.\n7. Mix everything together until the meat and pineapple are well coated.\n8. Cover and refrigerate for at least 2 hours or overnight.\n9. Preheat a grill or skillet over medium-high heat.\n10. Cook the marinated pork and pineapple slices until the meat is cooked through and slightly charred.\n11. Warm the corn tortillas on the grill or skillet.\n12. Fill each tortilla with the grilled pork and pineapple.\n13. Garnish with fresh cilantro and serve with lime wedges.",
+            "rating": 4.8
+          },
+          {
+            "recipe_id": "11",
+            "name": "Guacamole",
+            "ingredients": [
+              "2 ripe avocados",
+              "1 tomato, diced",
+              "1/4 cup finely chopped red onion",
+              "2 tablespoons chopped fresh cilantro",
+              "1 jalapeño pepper, seeded and minced",
+              "1 clove of garlic, minced",
+              "Juice of 1 lime",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. Cut the avocados in half, remove the pits, and scoop the flesh into a bowl.\n2. Mash the avocado with a fork until smooth or until your desired chunkiness.\n3. Add the diced tomato, chopped red onion, minced jalapeño pepper, minced garlic, and chopped fresh cilantro.\n4. Squeeze the lime juice over the mixture.\n5. Season with salt and pepper to taste.\n6. Stir everything together until well combined.\n7. Taste and adjust the seasoning if needed.\n8. Serve immediately with tortilla chips or as a condiment for tacos, burritos, or nachos.",
+            "rating": 4.9
+          },
+          {
+            "recipe_id": "12",
+            "name": "Chicken Enchiladas",
+            "ingredients": [
+              "2 cups cooked shredded chicken",
+              "1 onion, chopped",
+              "2 cloves of garlic, minced",
+              "2 cups enchilada sauce",
+              "1 cup shredded cheddar cheese",
+              "1 cup shredded Monterey Jack cheese",
+              "1/4 cup chopped fresh cilantro",
+              "8 small flour tortillas",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. Preheat the oven to 375°F (190°C).\n2. In a skillet, sauté the chopped onion and minced garlic until softened.\n3. Add the shredded chicken to the skillet and season with salt and pepper.\n4. Pour 1/2 cup of the enchilada sauce into a baking dish.\n5. Place a spoonful of the chicken mixture onto each flour tortilla and roll it up.\n6. Arrange the rolled tortillas in the baking dish.\n7. Pour the remaining enchilada sauce over the top.\n8. Sprinkle the shredded cheddar cheese and Monterey Jack cheese over the enchiladas.\n9. Bake in the preheated oven for about 20 minutes or until the cheese is melted and bubbly.\n10. Remove from the oven and garnish with chopped fresh cilantro.\n11. Serve hot and enjoy.",
+            "rating": 4.7
+          }
+        ],
+        "picture": "https://live.staticflickr.com/65535/52917396161_77a5e9285d_m.jpg",
+        "year_of_experience": 8,
+        "number_of_recipes": 3,
+        "number_of_likes": 1000
+      },
+
+
+
+
+
+
+      {
+        "id": "5",
+        "name": "Chen Wei",
+        "specialty": "Chinese Cuisine",
+        "experience": 15,
+        "bio":"Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft.",
+
+        "recipes": [
+          {
+            "recipe_id": "13",
+            "name": "Kung Pao Chicken",
+            "ingredients": [
+              "500g boneless chicken thighs, cut into bite-sized pieces",
+              "1/2 cup roasted peanuts",
+              "1 red bell pepper, diced",
+              "1 green bell pepper, diced",
+              "1 onion, diced",
+              "2 cloves of garlic, minced",
+              "2 tablespoons soy sauce",
+              "1 tablespoon hoisin sauce",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon cornstarch",
+              "1 teaspoon sugar",
+              "1 teaspoon sesame oil",
+              "1 teaspoon Sichuan peppercorns",
+              "Vegetable oil for cooking",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. In a small bowl, whisk together the soy sauce, hoisin sauce, rice vinegar, cornstarch, sugar, and sesame oil to make the sauce.\n2. Heat some vegetable oil in a wok or large skillet over high heat.\n3. Add the minced garlic and Sichuan peppercorns. Stir-fry for a few seconds until fragrant.\n4. Add the diced chicken and stir-fry until browned and cooked through.\n5. Remove the chicken from the wok and set aside.\n6. In the same wok, add a little more oil if needed.\n7. Add the diced bell peppers and onion. Stir-fry until slightly softened.\n8. Return the cooked chicken to the wok.\n9. Pour the sauce over the chicken and vegetables.\n10. Add the roasted peanuts and toss everything together.\n11. Cook for another minute or until the sauce thickens.\n12. Season with salt and pepper to taste.\n13. Serve hot and enjoy.",
+            "rating": 4.8
+          },
+          {
+            "recipe_id": "14",
+            "name": "Dumplings",
+            "ingredients": [
+              "250g ground pork",
+              "2 cups all-purpose flour",
+              "1/2 cup water",
+              "2 green onions, finely chopped",
+              "2 cloves of garlic, minced",
+              "1 tablespoon soy sauce",
+              "1 tablespoon sesame oil",
+              "1 teaspoon grated ginger",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. In a mixing bowl, combine the ground pork, chopped green onions, minced garlic, soy sauce, sesame oil, grated ginger, salt, and pepper.\n2. Mix everything together until well combined.\n3. In a separate bowl, gradually add water to the flour, stirring until it forms a dough.\n4. Knead the dough on a floured surface until smooth and elastic.\n5. Roll out the dough into a thin sheet.\n6. Use a round cookie cutter or a glass to cut out circles from the dough.\n7. Place a spoonful of the pork filling in the center of each dough circle.\n8. Fold the dough over the filling to create a half-moon shape.\n9. Pinch the edges together to seal the dumplings.\n10. Bring a large pot of water to a boil.\n11. Carefully drop the dumplings into the boiling water.\n12. Cook for about 5-6 minutes or until the dumplings float to the surface.\n13. Remove the dumplings from the water and serve hot with soy sauce or dipping sauce of your choice.",
+            "rating": 4.9
+          },
+          {
+            "recipe_id": "15",
+            "name": "Sweet and Sour Pork",
+            "ingredients": [
+              "500g pork tenderloin, cut into bite-sized pieces",
+              "1 red bell pepper, diced",
+              "1 green bell pepper, diced",
+              "1 onion, diced",
+              "2 cloves of garlic, minced",
+              "1/2 cup pineapple chunks",
+              "1/4 cup ketchup",
+              "2 tablespoons rice vinegar",
+              "2 tablespoons brown sugar",
+              "1 tablespoon soy sauce",
+              "1 tablespoon cornstarch",
+              "Vegetable oil for cooking",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. In a small bowl, whisk together the ketchup, rice vinegar, brown sugar, soy sauce, and cornstarch to make the sauce.\n2. Heat some vegetable oil in a wok or large skillet over high heat.\n3. Add the minced garlic and stir-fry for a few seconds until fragrant.\n4. Add the diced pork and stir-fry until browned and cooked through.\n5. Remove the pork from the wok and set aside.\n6. In the same wok, add a little more oil if needed.\n7. Add the diced bell peppers and onion. Stir-fry until slightly softened.\n8. Return the cooked pork to the wok.\n9. Add the pineapple chunks and pour the sauce over the pork and vegetables.\n10. Toss everything together and cook for another minute or until the sauce thickens.\n11. Season with salt and pepper to taste.\n12. Serve hot and enjoy.",
+            "rating": 4.7
+          }
+        ],
+        "picture": "https://live.staticflickr.com/65535/52917551134_fe7d4b1894_m.jpg",
+        "year_of_experience": 15,
+        "number_of_recipes": 3,
+        "number_of_likes": 2500
+      },
+
+
+
+
+
+      {
+        "id": "6",
+        "name": "Sophia Johnson",
+        "specialty": "Italian Cuisine",
+        "experience": 12,
+        "bio":"Giovanni Rossi is a veteran chef with over 12 years of experience in the Italian culinary world. He specializes in traditional dishes from various regions of Italy, and has a keen eye for presentation. He is known for his attention to detail and passion for his craft.",
+
+        "recipes": [
+          {
+            "recipe_id": "16",
+            "name": "Spaghetti Carbonara",
+            "ingredients": [
+              "250g spaghetti",
+              "200g pancetta or bacon, diced",
+              "3 egg yolks",
+              "1/2 cup grated Parmesan cheese",
+              "2 cloves of garlic, minced",
+              "Salt and pepper",
+              "Fresh parsley"
+            ],
+            "cooking_method": "1. Cook the spaghetti in a large pot of salted boiling water until al dente.\n2. While the spaghetti is cooking, heat a skillet over medium heat.\n3. Add the diced pancetta or bacon and cook until crispy.\n4. In a bowl, whisk together the egg yolks, grated Parmesan cheese, minced garlic, salt, and pepper.\n5. Drain the cooked spaghetti and immediately add it to the skillet with the crispy pancetta or bacon.\n6. Remove the skillet from the heat.\n7. Pour the egg yolk mixture over the spaghetti and quickly toss everything together.\n8. The heat from the spaghetti will cook the egg yolks and create a creamy sauce.\n9. Garnish with fresh parsley and additional grated Parmesan cheese.\n10. Serve hot and enjoy.",
+            "rating": 4.9
+          },
+          {
+            "recipe_id": "17",
+            "name": "Caprese Salad",
+            "ingredients": [
+              "2 large ripe tomatoes",
+              "200g fresh mozzarella cheese",
+              "Fresh basil leaves",
+              "2 tablespoons extra-virgin olive oil",
+              "1 tablespoon balsamic vinegar",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. Slice the tomatoes and fresh mozzarella cheese into thick slices.\n2. Arrange the tomato and mozzarella slices on a serving platter, alternating them.\n3. Tuck fresh basil leaves between the tomato and mozzarella slices.\n4. Drizzle the extra-virgin olive oil and balsamic vinegar over the salad.\n5. Season with salt and pepper to taste.\n6. Serve chilled as a refreshing and healthy side dish.",
+            "rating": 4.6
+          },
+          {
+            "recipe_id": "18",
+            "name": "Paella",
+            "ingredients": [
+              "250g chicken thighs",
+              "250g chorizo sausage",
+              "250g shrimp",
+              "250g mussels",
+              "1 onion",
+              "3 cloves of garlic",
+              "1 red bell pepper",
+              "1 yellow bell pepper",
+              "2 tomatoes",
+              "250g Arborio rice",
+              "1 teaspoon smoked paprika",
+              "1 teaspoon saffron threads",
+              "600ml chicken stock",
+              "4 tablespoons olive oil",
+              "Salt and pepper",
+              "Fresh parsley",
+              "Lemon wedges"
+            ],
+            "cooking_method": "1. Cut the chicken thighs and chorizo sausage into bite-sized pieces.\n2. Clean the shrimp and mussels, discarding any that are open or damaged.\n3. Chop the onion, garlic, red and yellow bell peppers, and tomatoes.\n4. In a large paella pan or skillet, heat the olive oil over medium heat.\n5. Add the chopped onion and garlic. Sauté until softened.\n6. Add the chicken thighs and chorizo sausage. Cook until browned.\n7. Stir in the chopped bell peppers and tomatoes. Cook for a few minutes.\n8. Sprinkle the smoked paprika and saffron threads over the ingredients in the pan.\n9. Add the Arborio rice and stir to coat it with the oil and spices.\n10. Pour in the chicken stock and bring to a simmer.\n11. Arrange the shrimp and mussels on top of the rice.\n12. Cover the pan and let the paella cook for about 20-25 minutes or until the rice is tender and the liquid is absorbed.\n13. Remove from heat and let it rest for a few minutes.\n14. Garnish with fresh parsley and serve with lemon wedges.",
+            "rating": 4.8
+          }
+        ],
+        "picture": "https://live.staticflickr.com/65535/52917396161_77a5e9285d_m.jpg",
+        "year_of_experience": 12,
+        "number_of_recipes": 3,
+        "number_of_likes": 3000
+      }
+
+    ]
+  
+  
